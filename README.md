@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Caleb Langat</h1>
-<h3 align="center">A passionate Android developer from Nairobi, Kenya</h3>
+### Hi there, I'm Caleb👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzazi25&label=Profile%20views&color=0e75b6&style=flat" alt="mzazi25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzazi25" alt="mzazi25" /></a> </p>
+### A Passionate Android Engineer and student of life🚀 
+I am an Android engineer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
 
-<p align="left"> <a href="https://twitter.com/_caleblangat" target="blank"><img src="https://img.shields.io/twitter/follow/_caleblangat?logo=twitter&style=for-the-badge" alt="_caleblangat" /></a> </p>
+* 📱 Working on Meaningful mobile apps 
+- 🌱 Everyday I learn something new about **Android, Kotlin and Jetpack Compose**
+* 💬 Ask me about ``Android``, ``UI/UX Design``, & ``Freelancing Enquiries`` 
+* 📝 Open Source Contributor
+* 💌 Available for your next project
 
-- 🔭 I’m currently working on [Boruto App](https://github.com/Mzazi25/BorutoApp)
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=mzazi25&show_icons=true&locale=en" alt="mzazi25"| Stats" />
+</details>
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android**
+## Reach me via 👇
+<p float="left">  
 
-- 📫 How to reach me **langat.caleb95@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_caleblangat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_caleblangat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caleb-langat-45874895/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caleb-langat-45874895/" height="30" width="40" /></a>
+ <a href="https://twitter.com/_caleblangat" target="blank"><img src="https://img.shields.io/twitter/follow/_caleblangat?logo=twitter&style=for-the-badge" alt="_caleblangat" /></a>
+  
+ <a href="https://www.linkedin.com/in/caleb-langat-45874895//" title="Redirect to LinkedIn">
+    <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
+  </a>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzazi25&show_icons=true&locale=en&layout=compact" alt="mzazi25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzazi25&show_icons=true&locale=en" alt="mzazi25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzazi25&" alt="mzazi25" /></p>
+## Projects made with ❤️ 👇
