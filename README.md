@@ -1,8 +1,6 @@
 ### Hi there, I'm Caleb👋
-
-
-### A Passionate Android Engineer and student of life🚀 
-I am an Android engineer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
+### A Passionate Android Engineer and student of life🚀
+Greetings, Welcome to my profile, its nice you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. I am a software developer with a focus on Native Android applications. I enjoy learning and writing code to make the Android Ecosystem a better place to engage in.
 
 * 📱 Working on Meaningful mobile apps 
 - 🌱 Everyday I learn something new about **Android, Kotlin and Jetpack Compose**
@@ -12,9 +10,6 @@ I am an Android engineer passionate about software development, user experience,
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=mzazi25&theme=darcula&hide_border=true&background=FFFFFF00&show_icons=true&locale=en" alt="mzazi25"| Stats" />
-</details>
-
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mzazi25&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Mzazi25&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ## Reach me via 👇
