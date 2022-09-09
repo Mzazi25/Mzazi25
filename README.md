@@ -23,22 +23,9 @@ I am an Android engineer passionate about software development, user experience,
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
   
-  <a href="https://www.linkedin.com/in/spikeysanju/" title="Redirect to LinkedIn">
+  <a href="https://www.linkedin.com/in/caleb-langat-45874895/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
-  
-  <a href="https://dribbble.com/spikeysanju" title="Redirect to Dribbble">
-    <img src="/assets/dribbble.png" width="120" alt="Dribbble" />
-  </a>
-  
-  <a href="https://www.instagram.com/insane.dvlpr/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
-  </a>
-
-  <a href="https://dev.to/sanjay_spikey" title="Redirect to Dev.To">
-    <img src="/assets/dev.png" width="120" alt="Dev.To" />
-  </a>
-
 </p>
 
 ## Projects made with ❤️ 👇
