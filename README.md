@@ -18,12 +18,8 @@ I am an Android engineer passionate about software development, user experience,
 ## Reach me via 👇
 
 <p float="left">
-
-<a href="https://www.youtube.com/c/insanedeveloper" title="Redirect to YouTube">
-    <img src="/assets/youtube.png" width="120" alt="YouTube" />
-  </a>
   
-  <a href="https://twitter.com/sanjay_spikey" title="Redirect to Twitter">
+  <a href="https://twitter.com/_CalebLangat" title="Redirect to Twitter">
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
   
