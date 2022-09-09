@@ -24,6 +24,9 @@ Greetings, Welcome to my profile, its nice you stopped by. While you want to che
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
 </p>
+  
+  #
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:langat.caleb95@gmail.com).
 
 ## Projects made with ❤️ 👇
 
