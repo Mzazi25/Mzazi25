@@ -9,7 +9,14 @@ Greetings, Welcome to my profile, its nice you stopped by. While you want to che
 * 💌 Available for your next project
 
 ### Stats
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Mzazi25&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Mzazi25&theme=darcula&hide_border=true&background=FFFFFF00">
+<center>
+  <table>
+    <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mzazi25&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzazi25&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
 
 ## Reach me via 👇
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:langat.caleb95@gmail.com)
