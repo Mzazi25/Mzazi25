@@ -22,6 +22,5 @@ Greetings, Welcome to my profile, its nice you stopped by. While you want to che
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:langat.caleb95@gmail.com)
 [![Twitter](https://img.shields.io/badge/-twitter-gray?style=for-the-badge&logo=twitter)](https://twitter.com/_CalebLangat)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caleb-langat-45874895/)
-[![Medium](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium)](https://medium.com/.....)
   
 ## Projects made with ❤️ 👇
